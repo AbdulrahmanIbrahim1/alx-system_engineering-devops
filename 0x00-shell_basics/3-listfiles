@@ -1,6 +1,2 @@
-
-C
-
 #!/bin/bash
-wqw
-ls -l1
+ls -l
